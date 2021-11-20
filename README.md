@@ -1,8 +1,10 @@
 # web pack starter kit with testing (jest)
 
-## step 1: clone this repo
+## clone this repo
 
 ## rm -rf .git
+
+## rm -rf src/example
 
 ## sync with new repo
 
